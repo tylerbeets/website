@@ -1,0 +1,25 @@
+body{
+	background-color:#ddd321;
+	margin:auto;
+	width:90%;
+	height:90%;
+}
+
+
+#wrapper {
+	background-color:#555555;
+}
+
+#header {
+	background-color:#444444;
+	height:100px;
+}
+
+#menu {
+	background-color:#fff333;
+	width:25%;
+}
+
+#menu li {
+	display:inline;
+}
